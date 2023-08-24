@@ -1,6 +1,6 @@
 {
   "name": "namety",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "source": "src/index.ts",
   "main": "dist/index.js",
@@ -12,8 +12,18 @@
     "watch": "parcel watch",
     "build": "parcel build"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "random-name-generator",
+    "random",
+    "name",
+    "generator",
+    "random-name"
+  ],
+  "author": "Dennis Chan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/den138/namety.git"
+  },
   "license": "ISC",
   "dependencies": {
     "@types/lodash": "^4.14.197",
