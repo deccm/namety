@@ -5,8 +5,6 @@ Usage
 ```TypeScript
 import { Name } from 'namety';
 
-import { Name } from 'namety';
-
 const name = new Name();
 const firstName = name.getFirstName();
 const lastName = name.getLastName();
