@@ -10,7 +10,6 @@ const firstName = name.getFirstName();
 const lastName = name.getLastName();
 const fullName = name.getFullName();
 
-console.log('name: ', name);
 console.log('firstName: ', firstName);
 console.log('lastName: ', lastName);
 console.log('fullName: ', fullName);
