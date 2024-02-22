@@ -16,7 +16,7 @@ console.log('fullName: ', fullName);
 ```
 
 ```
-firstName:  Charlie
-lastName:  Frederick
-fullName:  Charlie Frederick
+firstName:  Franky
+lastName:  Tse
+fullName:  Franky Tse
 ```
